@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">Hey, I am Shayantan,<br><br>- 🔭 I’m currently a student learning the ins and outs of programming.<br>- 📚 I'm currently learning WebDev<br>- ⚡ In my free time I like to delve into keyboards and how computers work?</p>
+<p align="left">Hey, I am Shayantan,<br><br>- 🔭 I’m currently a student learning the ins and outs of programming.<br>- 📚 I'm currently learning WebDev<br>- ⚡ In my free time I like to delve into keyboards and how computers work</p>
 
 ###
 
