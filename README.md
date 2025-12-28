@@ -12,7 +12,7 @@
                    \/__/         \/__/         \/__/                       \/__/         \/__/
 </pre>   
 ---
-<img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3Y2N6OHRhNWx6bjN4bXR6ZjVobjh2aWFzMDNjOXMzZXk4ZGpwdGp6dyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/z3Ecl5aJmqQJrdN5M5/giphy.gif" width="4%"> Hello, I'm _**Shayantan**_. A Computer Science & Engineering student interested in exploring tech, from building systems to learning how things work underneath the hood.
+<img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3Y2N6OHRhNWx6bjN4bXR6ZjVobjh2aWFzMDNjOXMzZXk4ZGpwdGp6dyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/z3Ecl5aJmqQJrdN5M5/giphy.gif" width="4%"> Hello, I'm _**Shayantan**_. A Computer Science & Engineering student interested in exploring tech, from building systems to learning how things work underneath the hood. Always curious, always learning, and constantly turning ideas into code.
 
 <div float="left" align="center">
     <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dWNnanpudmo3aTV6M25peWltMWJ1Nzh1YnZ2anBpcjc4cmFsZjBqYyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/jnE30eFmv6DvXUHUOs/giphy.gif" width="50%"/>
