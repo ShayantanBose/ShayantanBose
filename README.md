@@ -19,17 +19,6 @@
   <div>
      <kbd>
        <br>
-       &nbsp; &nbsp;  &nbsp; &nbsp; ■ Backend ■ Frontend ■ Design ■ &nbsp; &nbsp;  &nbsp; &nbsp;
-       <br> <br>
-     </kbd>
-  <div>
-    <br>
-</div>
-
-<div float="left" align="center">
-  <div>
-     <kbd>
-       <br>
        &nbsp; &nbsp;  &nbsp; &nbsp; ■ Current Tech-Stack ■ &nbsp; &nbsp;  &nbsp; &nbsp;
        <br> <br>
      </kbd>
@@ -42,7 +31,16 @@
             <img src="https://skillicons.dev/icons?i=html,css,javascript,tailwind,react,nodejs,express,go,docker,vim,linux,git&perline=6&theme=dark"/>
       </a>
 </div>
-
-<p align="center">
+<br><br>
+<pre align="center">
+    .--.
+   |o_o |
+   |:_/ |
+  //   \ \
+ (|     | )
+/'|_   _/'\
+\___)=(___/
+  <p align="center">
 ■ 𝐖𝐡𝐚𝐭 𝐢𝐬𝐧’𝐭 𝐫𝐞𝐦𝐞𝐦𝐛𝐞𝐫𝐞𝐝 𝐧𝐞𝐯𝐞𝐫 𝐡𝐚𝐩𝐩𝐞𝐧𝐞𝐝, 𝐦𝐞𝐦𝐨𝐫𝐲 𝐢𝐬 𝐦𝐞𝐫𝐞𝐥𝐲 𝐚 𝐫𝐞𝐜𝐨𝐫𝐝, 𝐲𝐨𝐮 𝐣𝐮𝐬𝐭 𝐧𝐞𝐞𝐝 𝐭𝐨 𝐫𝐞𝐰𝐫𝐢𝐭𝐞 𝐭𝐡𝐚𝐭 𝐫𝐞𝐜𝐨𝐫𝐝 ■
   </p>
+</pre>
